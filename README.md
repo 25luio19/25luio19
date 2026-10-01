@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Luis. I’m a Data Science student with a background in programming, economics, and data visualization. I became interested in data science because I enjoy using programming and quantitative methods to understand real-world problems and make better decisions. I hope to use my degree to work in some quant company or big tech.👋
 
 <!--
 **25luio19/25luio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
