@@ -1,6 +1,4 @@
-## Hi, I’m Luis. I’m double major B.S. Data Science & B.S. Economics with a Minor in Computer Science I like Quantitative Risk
-degree to work in some quant company or big tech I like machine learning and C++ is the best programming language.👋
-
+## Hi, I’m Luis. I’m double major B.S. Data Science & B.S. Economics with a Minor in Computer Science I like Quantitative Risk and I think C++ is the best language
 <!--
 **25luio19/25luio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
