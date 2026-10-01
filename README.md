@@ -1,4 +1,5 @@
-## Hi, I’m Luis. I’m a Data Science student with a background in programming, economics, and data visualization. I became interested in data science because I enjoy using programming and quantitative methods to understand real-world problems and make better decisions. I hope to use my degree to work in some quant company or big tech.👋
+## Hi, I’m Luis. I’m double major B.S. Data Science & B.S. Economics with a Minor in Computer Science I like Quantitative Risk
+degree to work in some quant company or big tech I like machine learning and C++ is the best programming language.👋
 
 <!--
 **25luio19/25luio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
