@@ -1,5 +1,7 @@
 ## Hi, I’m Luis. I’m double major B.S. Data Science & B.S. Economics with a Minor in Computer Science I like Quantitative Risk and I think C++ is the best language
-<!--
+## Resume
+
+[View my resume](./Luis_Olea_Cruz_Resume.pdf)<!--
 **25luio19/25luio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
